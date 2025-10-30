@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "CC.Graph",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/Graph",
+  "notes": "No mains"
+}
